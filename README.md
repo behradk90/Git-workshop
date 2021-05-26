@@ -1,4 +1,4 @@
 # Git-workshop
 
-##This is an example repository for Git/GitHub practice.
+## This is an example repository for Git/GitHub practice.
 
